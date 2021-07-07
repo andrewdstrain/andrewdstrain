@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrewdstrain
-- 👀 I’m interested in Python and full stack software development.
+- 👀 I’m interested in full-stack software development.
 - 🌱 I’m currently learning Pygame and the MERN stack.
 - 💞️ I’m looking to collaborate on MERN stack projects and Pygame as well.
 - 📫 How to reach me on Twitter - https://twitter.com/blaztek/
